@@ -6,3 +6,5 @@ This game is based on Undertale/Deltarune's battle system in a shmup style game,
 I don't know, probably not, anyways, I made this game for fun.
 
 Controls are only arrow keys and WASD.
+
+And dash with Shift or
