@@ -10,6 +10,7 @@ Controls are only arrow keys and WASD.
 # Guide
 This is my guide to the game!
 
+
 - First wave:
 
 I have two methods here:
@@ -22,4 +23,18 @@ Number 2:
 
 Go to the right and up until you reach the top right side of the map. As soon as you reach top right, start going left and whenever you get to left side below enemy, go straight down and doge to right and repeat until teh enemy is dead.
 
+
 - Second wave:
+
+I only have one method for this one.
+
+Uhh. Do like an infinity sign between the bullets. I don't know how to explain this one, sorry. :)
+
+
+- Third wave:
+
+I have two methods here:
+
+Number 1:
+
+Go to the bottom left of the screen.
