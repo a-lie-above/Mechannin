@@ -7,6 +7,6 @@ I don't know, probably not, anyways, I made this game for fun.
 
 Controls are only arrow keys and WASD.
 
-7 waves, only one Hp.
+7 waves, only one hit point.
 
 This game is (probably) VERY difficult! So you've been warned.
